@@ -1,0 +1,3 @@
+﻿  KomplexerTaschenrechner.cpp
+C:\Users\manu4\source\repos\Aufgaben\Aufgaben\KomplexerTaschenrechner.cpp(86): warning C4715: "KomplexeUmwandlung": Nicht alle Codepfade geben einen Wert zurück.
+  Aufgaben.vcxproj -> C:\Users\manu4\source\repos\Aufgaben\Debug\Aufgaben.exe
